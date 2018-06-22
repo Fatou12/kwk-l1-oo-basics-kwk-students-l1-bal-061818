@@ -37,3 +37,4 @@ end
 end
 
 Harry_Potter.new(" Harry Potter the something stone")
+Harry_Potter.turn_page
