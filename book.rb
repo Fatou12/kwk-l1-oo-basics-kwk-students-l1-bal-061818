@@ -30,3 +30,10 @@ def genre=(genre)
 def genre
   @genre
 end
+
+def turn_page
+  puts " flipping the page...wow you read fast"
+end
+end
+
+Harry_Potter.new(" Harry Potter the something stone")
