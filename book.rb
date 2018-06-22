@@ -7,11 +7,7 @@ class Book
   def initialize(title)
     @title = title
   end
-
-  puts " flipping the page...wow you read fast"
+def turn_page
+  puts "Flipping the page...wow, you read fast!"
 end
-end
-
-Harry_Potter.new(" Harry Potter the something stone")
-Harry_Potter.turn_page
 end
